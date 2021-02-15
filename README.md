@@ -1,2 +1,2 @@
 # compi_practica_1
-co
+practica 1 compi, usando Jflex y cup
